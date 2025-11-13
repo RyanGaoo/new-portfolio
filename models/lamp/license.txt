@@ -1,0 +1,11 @@
+Model Information:
+* title:	IKEA desk-lamp
+* source:	https://sketchfab.com/3d-models/ikea-desk-lamp-4809e04a904044adb4e690980f155d9e
+* author:	szymon.burek (https://sketchfab.com/szymon.burek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IKEA desk-lamp" (https://sketchfab.com/3d-models/ikea-desk-lamp-4809e04a904044adb4e690980f155d9e) by szymon.burek (https://sketchfab.com/szymon.burek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
